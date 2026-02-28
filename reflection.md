@@ -2,3 +2,5 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Encapsulation` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I was very confused for the first couple of days that I was working on this assignment, and I consulted peers such as Elizabeth Sarpong in order to fully get a grasp on when to use private versus public methods. I did use w3schools as well, in order to review the methods I was using were in the proper formatting, and it helped a lot to supplement the material we learned in class as well as through the OneCard project. I would advise people get started by having conversations with peers and professors to make sure that you fully understand encapsulation before trying to implement it in the code. I would also suggest consulting the examples in class and taking notes on how you could expand on those in-class activities in the context of the homework assignments.
